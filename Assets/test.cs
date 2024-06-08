@@ -15,4 +15,9 @@ public class test : MonoBehaviour
     {
         
     }
+
+    void add(int id)
+    {
+
+    }
 }
