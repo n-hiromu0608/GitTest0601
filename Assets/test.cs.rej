@@ -1,0 +1,11 @@
+diff a/Assets/test.cs b/Assets/test.cs	(rejected hunks)
+@@ -15,4 +15,9 @@
+     {
+         
+     }
++
++    void add(int id)
++    {
++
++    }
+ }

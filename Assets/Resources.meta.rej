@@ -1,0 +1,10 @@
+diff a/Assets/Resources.meta b/Assets/Resources.meta	(rejected hunks)
+@@ -0,0 +1,8 @@
++fileFormatVersion: 2
++guid: f2b2c210d0aafe044a0c9fe3ca0a9821
++folderAsset: yes
++DefaultImporter:
++  externalObjects: {}
++  userData: 
++  assetBundleName: 
++  assetBundleVariant: 

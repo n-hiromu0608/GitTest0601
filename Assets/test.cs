@@ -15,9 +15,8 @@ public class test : MonoBehaviour
     {
         
     }
-
-    void add(int id)
+    void aaaaaaaaaaa()
     {
-
+        int a = 30000;
     }
 }
