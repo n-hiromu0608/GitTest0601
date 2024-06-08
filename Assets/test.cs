@@ -15,4 +15,8 @@ public class test : MonoBehaviour
     {
         
     }
+    void aaaaaaaaaaa()
+    {
+        int a = 30000;
+    }
 }
